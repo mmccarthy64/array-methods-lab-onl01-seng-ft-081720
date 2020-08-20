@@ -3,7 +3,7 @@ def using_include(array, element)
   if array.include?("wow")
     puts true
   else
-    false
+    puts false
   end
 end
 
