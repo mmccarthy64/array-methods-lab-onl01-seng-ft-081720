@@ -1,15 +1,11 @@
+array = ["wow", "I", "am", "really", "learning", "arrays!"]
+
 def using_include(array, element)
-  x = ["wow", "arrays!"]
-  if array.include?("wow")
-    puts true
-  else
-    puts false
-  end
+
 end
 
 def using_sort(array)
-  x = ["wow", "arrays!"]
-  x.sort
+
 end
 
 def using_reverse(array)
