@@ -8,7 +8,7 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-  x = []
+  x = ["wow", "arrays!"]
   x.sort
 end
 
