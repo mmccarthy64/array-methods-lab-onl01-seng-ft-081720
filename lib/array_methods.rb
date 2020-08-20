@@ -1,4 +1,4 @@
-array = []
+array = ["wow", "arrays!"]
 
 def using_include(array, element)
 
